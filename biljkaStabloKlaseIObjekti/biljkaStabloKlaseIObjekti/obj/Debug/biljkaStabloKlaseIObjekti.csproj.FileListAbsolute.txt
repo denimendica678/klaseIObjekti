@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\biljkaStabloKlaseIObjekti\biljkaStabloKlaseIObjekti\bin\Debug\biljkaStabloKlaseIObjekti.exe.config
+C:\Users\denim\source\repos\biljkaStabloKlaseIObjekti\biljkaStabloKlaseIObjekti\bin\Debug\biljkaStabloKlaseIObjekti.exe
+C:\Users\denim\source\repos\biljkaStabloKlaseIObjekti\biljkaStabloKlaseIObjekti\bin\Debug\biljkaStabloKlaseIObjekti.pdb
+C:\Users\denim\source\repos\biljkaStabloKlaseIObjekti\biljkaStabloKlaseIObjekti\obj\Debug\biljkaStabloKlaseIObjekti.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\biljkaStabloKlaseIObjekti\biljkaStabloKlaseIObjekti\obj\Debug\biljkaStabloKlaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\biljkaStabloKlaseIObjekti\biljkaStabloKlaseIObjekti\obj\Debug\biljkaStabloKlaseIObjekti.exe
+C:\Users\denim\source\repos\biljkaStabloKlaseIObjekti\biljkaStabloKlaseIObjekti\obj\Debug\biljkaStabloKlaseIObjekti.pdb
