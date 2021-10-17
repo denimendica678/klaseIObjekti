@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\geometrijskiLikKlaseIObjekti\geometrijskiLikKlaseIObjekti\bin\Debug\geometrijskiLikKlaseIObjekti.exe.config
+C:\Users\denim\source\repos\geometrijskiLikKlaseIObjekti\geometrijskiLikKlaseIObjekti\bin\Debug\geometrijskiLikKlaseIObjekti.exe
+C:\Users\denim\source\repos\geometrijskiLikKlaseIObjekti\geometrijskiLikKlaseIObjekti\bin\Debug\geometrijskiLikKlaseIObjekti.pdb
+C:\Users\denim\source\repos\geometrijskiLikKlaseIObjekti\geometrijskiLikKlaseIObjekti\obj\Debug\geometrijskiLikKlaseIObjekti.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\geometrijskiLikKlaseIObjekti\geometrijskiLikKlaseIObjekti\obj\Debug\geometrijskiLikKlaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\geometrijskiLikKlaseIObjekti\geometrijskiLikKlaseIObjekti\obj\Debug\geometrijskiLikKlaseIObjekti.exe
+C:\Users\denim\source\repos\geometrijskiLikKlaseIObjekti\geometrijskiLikKlaseIObjekti\obj\Debug\geometrijskiLikKlaseIObjekti.pdb
